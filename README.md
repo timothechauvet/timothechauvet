@@ -1,8 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothechauvet&show_icons=true&theme=transparent&locale=en&border_radius=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothechauvet&show_icons=true&locale=en&border_radius=7&bg_color=00000000&text_color=888888&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothechauvet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Willianrod's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=timothechauvet)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothechauvet&layout=compact&bg_color=00000000&text_color=888888&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi I'm Timothé, [Efrei](https://efrei.fr) student soon to become employed 👋
 
