@@ -5,8 +5,7 @@
 Hi I'm Timothé, [Efrei](https://efrei.fr) alumni and [Devoteam M Cloud](https://mcloud.devoteam.com/) consultant 👋
 
 - 🙌 Living in Paris, France
-- 👋 Call me he/him
 - 🤝 Not currently seeking for a job
 - 👌 Enjoying Cloud and DevOps, but still coding some stuff
 - 👍 Loves [electronic music](https://www.last.fm/fr/user/jik00000000), visiting places on a bike, Europe and South-Asia
-- 🤙 Contact me through [my LinkedIn](https://www.linkedin.com/in/timothechauvet/), my [Mastodon](https://h4.io/@timothechauvet) or my mail : [timothe@chauvet.dev](mailto:timothe@chauvet.dev)
+- 🤙 Contact me through [my LinkedIn](https://www.linkedin.com/in/timothechauvet/) or my mail : [timothe@chauvet.dev](mailto:timothe@chauvet.dev)
