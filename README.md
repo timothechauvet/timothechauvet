@@ -2,7 +2,7 @@
 
 [![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothechauvet&layout=compact&border_radius=10&bg_color=00000000&text_color=888888&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi I'm Timothé, [Efrei](https://efrei.fr) alumni and [Bleu Cloud](https://bleucloud.fr/) Azure Ops 👋
+Hi I'm Timothé, [Efrei](https://efrei.fr) alumni and freelance Ops 👋
 
 - 🙌 Living in Paris, France
 - 🤝 Not currently seeking for a job
